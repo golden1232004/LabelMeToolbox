@@ -1,6 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % LabelMe
 %
+%
 % This script contains a number of examples about how to use the most
 % important functions of this toolbox.
 %
